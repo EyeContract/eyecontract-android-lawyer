@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        icon="@drawable/ic_document"
+        id="@+id/main_document"
+        title="내 문서" />
+    <tab
+        icon="@drawable/ic_template"
+        id="@+id/main_template"
+        title="템플릿" />
+    <tab
+        icon="@drawable/ic_chat"
+        id="@+id/main_chat"
+        title="채팅" />
+    <tab
+        icon="@drawable/ic_my"
+        id="@+id/main_my"
+        title="내 정보" />
+</tabs>
